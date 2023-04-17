@@ -57,3 +57,99 @@
 2023-03-31 10:56:32.045950 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202303-2888696.pdf
 2023-03-31 10:56:58.095952 INFO  MAIL SENT lavanyaprathipati90@gmail.com
 2023-03-31 10:56:58.095952 INFO  Task Complete
+2023-04-17 14:53:42.719409 ERROR [Errno 2] No such file or directory: 'MailingListTemp.csv'
+2023-04-17 14:53:42.720411 INFO  FILE READ MailText.txt
+2023-04-17 14:54:30.237869 ERROR [Errno 2] No such file or directory: 'MailingListTemp.csv'
+2023-04-17 14:54:30.238870 INFO  FILE READ MailText.txt
+2023-04-17 14:54:30.238870 INFO  Task Complete
+2023-04-17 14:55:12.028897 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 14:55:12.029897 INFO  FILE READ MailText.txt
+2023-04-17 14:55:33.921664 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 14:55:33.922662 INFO  FILE READ MailText.txt
+2023-04-17 14:55:33.925632 ERROR [Errno 2] No such file or directory: 'Attachments\\FSP-IOT-82089-202304-307678.pdf'
+2023-04-17 14:55:33.926633 ERROR [Errno 2] No such file or directory: 'Attachments\\FSP-IOT-82089-202304-987944.pdf'
+2023-04-17 14:55:33.926633 INFO  Task Complete
+2023-04-17 14:58:15.487795 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 14:58:15.487795 INFO  FILE READ MailText.txt
+2023-04-17 14:58:15.545796 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 14:58:36.600864 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 14:58:36.620864 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 14:58:57.656917 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 14:58:57.657915 INFO  Task Complete
+2023-04-17 15:00:09.050959 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 15:00:09.051958 INFO  FILE READ MailText.txt
+2023-04-17 15:00:09.071958 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 15:00:30.131686 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:00:30.159687 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 15:00:51.206731 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:00:51.207729 INFO  Task Complete
+2023-04-17 15:01:52.675829 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 15:01:52.675829 INFO  FILE READ MailText.txt
+2023-04-17 15:01:52.701799 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 15:02:13.745794 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:02:13.765797 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 15:02:34.813797 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:02:34.813797 INFO  Task Complete
+2023-04-17 15:04:54.174794 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 15:04:54.174794 INFO  FILE READ MailText.txt
+2023-04-17 15:04:54.206825 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 15:05:15.258797 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:05:15.279798 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 15:05:36.322829 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:05:36.323798 INFO  Task Complete
+2023-04-17 15:17:36.213481 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 15:17:36.214481 INFO  FILE READ MailText.txt
+2023-04-17 15:17:36.240511 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 15:17:57.292481 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:17:57.315481 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 15:18:18.355482 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:18:18.356498 INFO  Task Complete
+2023-04-17 15:24:43.451531 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 15:24:43.452532 INFO  FILE READ MailText.txt
+2023-04-17 15:24:43.473527 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 15:25:04.530527 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:25:04.550528 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 15:25:25.574563 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:25:25.575530 INFO  Task Complete
+2023-04-17 15:28:04.912149 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 15:28:04.912149 INFO  FILE READ MailText.txt
+2023-04-17 15:28:04.935149 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 15:28:25.989224 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:28:26.010190 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 15:28:47.077225 ERROR [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-04-17 15:28:47.078190 INFO  Task Complete
+2023-04-17 18:03:31.163425 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 18:03:31.178430 INFO  FILE READ MailText.txt
+2023-04-17 18:03:31.284424 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 18:03:33.655397 INFO  MAIL SENT priyankasinha.cdac@gmail.com
+2023-04-17 18:03:33.732425 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 18:03:34.899441 INFO  MAIL SENT priyankasinha@cdac.in
+2023-04-17 18:03:34.900398 INFO  Task Complete
+2023-04-17 18:06:07.859396 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 18:06:07.860396 INFO  FILE READ MailText.txt
+2023-04-17 18:06:07.881419 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 18:06:11.200396 INFO  MAIL SENT priyankasinha.cdac@gmail.com
+2023-04-17 18:06:11.224396 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 18:06:13.012434 INFO  MAIL SENT priyankasinha@cdac.in
+2023-04-17 18:06:13.013395 INFO  Task Complete
+2023-04-17 18:08:08.719397 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 18:08:08.719397 INFO  FILE READ MailText.txt
+2023-04-17 18:08:08.739395 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 18:08:12.540393 INFO  MAIL SENT priyankasinha.cdac@gmail.com
+2023-04-17 18:08:12.562396 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 18:08:15.229395 INFO  MAIL SENT priyankasinha@cdac.in
+2023-04-17 18:08:15.230394 INFO  Task Complete
+2023-04-17 18:09:14.639393 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 18:09:14.639393 INFO  FILE READ MailText.txt
+2023-04-17 18:09:14.666393 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 18:09:22.213420 INFO  MAIL SENT priyankasinha.cdac@gmail.com
+2023-04-17 18:09:22.237395 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 18:09:25.229400 INFO  MAIL SENT priyankasinha@cdac.in
+2023-04-17 18:09:25.230397 INFO  Task Complete
+2023-04-17 18:11:35.942876 INFO  FILE READ AttachmentListTemp.csv
+2023-04-17 18:11:35.942876 INFO  FILE READ MailText.txt
+2023-04-17 18:11:35.963876 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-307678.pdf
+2023-04-17 18:11:38.995876 INFO  MAIL SENT priyankasinha.cdac@gmail.com
+2023-04-17 18:11:39.015907 INFO  FILE ATTACHED Attachments\FSP-IOT-82089-202304-987944.pdf
+2023-04-17 18:11:40.583876 INFO  MAIL SENT priyankasinha@cdac.in
+2023-04-17 18:11:40.583876 INFO  Task Complete

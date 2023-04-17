@@ -65,7 +65,7 @@ if not ids.empty and mailmessage:
             message['From'] = sender_email
             message['To'] = participantemail
             message['Subject'] = mailsubject
-            #message['Cc'] = mailcc
+            message['Cc'] = mailcc
             
             mailtexttype = config.get('MAILCONFIG','MAILTEXTTYPE',fallback='MAILTEXTTYPE not defined')
             if mailtexttype =='html':
@@ -102,8 +102,7 @@ if not ids.empty and mailmessage:
 
             #read message body and send mail
             text = message.as_string()
-            #session.sendmail(sender_email, participantemail.split(',')+mailcc.split(', '), text)
-            session.sendmail(sender_email, participantemail.split(','), text)
+            session.sendmail(sender_email, participantemail.split(',')+mailcc.split(', '), text)
             session.quit()
             print('Mail Sent to: ', participantemail)
             logging.info(str(datetime.now()) + ' INFO ' + ' MAIL SENT ' + participantemail)  
